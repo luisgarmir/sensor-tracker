@@ -1,0 +1,17 @@
+# Virtual environment
+venv/
+
+# SQLite database file
+*.db
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment variables (we'll use this later for secrets)
+.env
+
+# IDE files
+.vscode/
+.idea/
